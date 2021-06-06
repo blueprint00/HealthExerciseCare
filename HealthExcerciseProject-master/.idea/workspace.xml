@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b2d41e1e-8298-4869-831e-d398bd877bf1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Controller/HealthFrameController.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Controller/HealthFrameController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Controller/MyPageController.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Controller/MyPageController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Controller/PreExerciseStartController$BtnActionListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Controller/PreExerciseStartController$BtnActionListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Controller/RequestHttpURLConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Controller/RequestHttpURLConnection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Main$loginListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Main$registerListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/View/HealthFrame$BtnListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/View/HealthFrame$BtnListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/View/HealthFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/View/HealthFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/View/MyPageView.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/View/MyPageView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/HealthFrameController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/HealthFrameController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/MyPageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/MyPageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/PreExerciseStartController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/PreExerciseStartController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/RegisterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/RegisterController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/RequestHttpURLConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/RequestHttpURLConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/HealthFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/HealthFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/MyPageView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/MyPageView.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1VpPkl7nKdQHnnSRrS3xN5olznY" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2d41e1e-8298-4869-831e-d398bd877bf1" name="Default Changelist" comment="" />
+      <created>1577449111124</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577449111124</updated>
+      <workItem from="1577449116432" duration="56000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="56000" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
